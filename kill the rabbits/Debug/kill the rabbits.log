@@ -1,0 +1,17 @@
+﻿Build started 8/31/2018 10:19:08 PM.
+     1>Project "D:\sd project 2\SD project\kill the rabbits\kill the rabbits\kill the rabbits.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\kill the rabbits.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         kill the rabbits.vcxproj -> D:\sd project 2\SD project\kill the rabbits\Debug\kill the rabbits.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\kill the rabbits.unsuccessfulbuild".
+         Touching "Debug\kill the rabbits.lastbuildstate".
+     1>Done Building Project "D:\sd project 2\SD project\kill the rabbits\kill the rabbits\kill the rabbits.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.36
